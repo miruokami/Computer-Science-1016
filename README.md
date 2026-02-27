@@ -1,4 +1,4 @@
-# -Computer-Science-1016
+# Computer-Science-1016
 This course builds on the foundation of CSC1015F/CSC1010H, with a focus on object-oriented design and programming in Java, as well as introducing important considerations relating to ethical and professional issues. The latter introduces students to ethical issues such as property rights, freedom of expression and privacy, and concepts such as free and open source software, ICT for Development, and Professional Codes of Conduct. The Java component of the course covers object-oriented design techniques and UML class diagrams, as well as elementary data structures such as lists, stacks and queues. The practical component includes use of inheritance, polymorphism, interfaces, generics and GUI programming in Java.
 
 These are the assignment done during the course of this course XD.
